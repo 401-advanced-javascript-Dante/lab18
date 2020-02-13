@@ -25,6 +25,6 @@ ps://github.com/401-advanced-javascript-Dante/lab16/actions/runs/37729539) (GitH
 
 #### UML
 
-![uml](https://imgur.com/acUnCLg)
+![uml](https://i.imgur.com/acUnCLg.jpg)
 
 
