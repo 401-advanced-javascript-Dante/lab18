@@ -6,7 +6,7 @@
 ### Author: Abdulrhman Alharasis
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-Dante/lab16/pull/2)
+- [submission PR](https://github.com/401-advanced-javascript-Dante/lab18/pull/1)
 <!-- - [ci/cd](htt
 ps://github.com/401-advanced-javascript-Dante/lab16/actions/runs/37729539) (GitHub Actions) -->
 
